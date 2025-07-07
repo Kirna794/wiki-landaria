@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 🎰 Le Casino
+# 🎰 Le Casino exemple
 
 Le **casino**, comme dans la vraie vie, est un moyen de dépenser de l'argent (en jeu) afin d'en obtenir davantage ou d'en perdre. Pour accéder au casino de votre serveur respectif.
 
